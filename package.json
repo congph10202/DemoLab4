@@ -1,0 +1,16 @@
+{
+  "name": "demolab42",
+  "version": "1.0.0",
+  "description": "DD",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "name",
+  "license": "ISC"
+}
